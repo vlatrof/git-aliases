@@ -1,5 +1,5 @@
 # git-aliases
-Git aliases that i use
+Git aliases that i use. If you want to use it put this section in your .gitconfig file
 
     [alias]
         
