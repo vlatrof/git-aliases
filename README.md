@@ -21,7 +21,7 @@ Git aliases that i use. If you want to use it put this section in your .gitconfi
 
     
         # chain of commands:
-        # 1. index all changes
+        # 1. index all changes in all files
         # 2. create new commit with provided message
         # 3. push this current branch to upstream branch
         # example of using:
